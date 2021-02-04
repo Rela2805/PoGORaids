@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PogoRaidsBackend.Domain.DifficultyDataModel">
+    <Position X="8.75" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAQAAAAAA=</HashCode>
+      <FileName>Domain\DifficultyDataModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PogoRaidsBackend.Domain.PokemonDataModel">
+    <Position X="13" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAQAAAAAAAAQAAAQAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\PokemonDataModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PogoRaidsBackend.Domain.RaidDataModel">
+    <Position X="15.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAAAACAAAAAAAAAAAAAAAQAAAAEAAAACAAAAA=</HashCode>
+      <FileName>Domain\RaidDataModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PogoRaidsBackend.Domain.TeamDataModel">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAA=</HashCode>
+      <FileName>Domain\TeamDataModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PogoRaidsBackend.Domain.UserDataModel">
+    <Position X="11" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACABAAACAAAAAAAQAAAAQgBAAQAAADEAAAAAAACAA=</HashCode>
+      <FileName>Domain\UserDataModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
